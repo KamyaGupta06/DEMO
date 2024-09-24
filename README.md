@@ -1,4 +1,4 @@
 # DEMO
 This is first repo
 <br>
-Author:kamya gupta
+Author-kamya gupta
